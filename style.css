@@ -7,6 +7,12 @@
 html {
     scroll-behavior: smooth;
   }
+.nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
 body {
 	/* background: #f6f5f7; */
     /* background: linear-gradient(45deg,#a700ff,#4d19db); */
